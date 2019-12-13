@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ankitsinghal0234/project-az400/_apis/build/status/ansingha2111.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ankitsinghal0234/project-az400/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
